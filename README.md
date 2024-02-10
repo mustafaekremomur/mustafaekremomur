@@ -33,4 +33,4 @@ $\frac{x^4}{1 + x^3} + x^2_3 + x^4$
 | Row 2, Cell1| Row 2, Cell2| Row 2, Cell3|
 | Row 3, Cell1| Row 3, Cell2| Row 3, Cell3|
 
-[Deep learning for image inpainting: A survey](https://example.com)
+[Deep learning for image inpainting: A survey]([https://example.com](https://www2.deloitte.com/us/en/pages/about-deloitte/articles/technology-trust-ethics-annual-report.html?id=us:2ps:3gl:tteanrt23:awa:abt:112923:ethics%20and%20technology:b:c:kwd-301526040172&gad_source=1&gclid=CjwKCAiAt5euBhB9EiwAdkXWO8erq3y-I0yFR9J_8bbqKkm80NSZUmLf0bEl2YTljTqhUExzJwFO1BoChaIQAvD_BwE)https://www2.deloitte.com/us/en/pages/about-deloitte/articles/technology-trust-ethics-annual-report.html?id=us:2ps:3gl:tteanrt23:awa:abt:112923:ethics%20and%20technology:b:c:kwd-301526040172&gad_source=1&gclid=CjwKCAiAt5euBhB9EiwAdkXWO8erq3y-I0yFR9J_8bbqKkm80NSZUmLf0bEl2YTljTqhUExzJwFO1BoChaIQAvD_BwE)
