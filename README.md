@@ -33,5 +33,6 @@ $\frac{x^4}{1 + x^3} + x^2_3 + x^4$
 | Row 2, Cell1| Row 2, Cell2| Row 2, Cell3|
 | Row 3, Cell1| Row 3, Cell2| Row 3, Cell3|
 
-[Deep learning for image inpainting: A survey](https://example.com)
+[Deep learning for image inpainting: A survey](https://www.sciencedirect.com/science/article/abs/pii/S003132032200526X?casa_token=CAqNyuhElTIAAAAA:yHXbkf9frKxUXle26Z4kyNf5_tW-o9zly84KkfiuOhk5YRDac_D5CDgbbERWsMgAAms908ybaw)
+
 
